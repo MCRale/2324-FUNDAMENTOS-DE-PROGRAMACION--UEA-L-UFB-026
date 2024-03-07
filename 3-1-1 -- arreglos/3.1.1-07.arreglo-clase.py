@@ -4,12 +4,12 @@ student_grades = [
     [75, 80, 85]
 ]
 
-#modificar valor 80
+#modificar valor 80 por 42
 print(student_grades[2][1])
 student_grades[2][1] = 42
 print(student_grades[2][1])
 
-# modificar valor 85
+# modificar valor 85 por 0
 print(student_grades[2][2])
 student_grades[2][2] = 0
 print(student_grades[2][2])
